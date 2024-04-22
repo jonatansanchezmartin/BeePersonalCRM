@@ -16,7 +16,7 @@ Developed for busy professionals that want to:
 
 1. 📅 Avoid forgetting birthday dates.
 
-2. 📞 Wish to have more meaningful conversations with friends and family.
+2. 📞 Have more meaningful conversations with friends and family.
 
 
 
