@@ -178,3 +178,73 @@ header{
 .col2fila3{
     width: 45%;
 }
+
+.fila4{
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5%;
+    background-color: white;
+    text-align: center;
+}
+
+
+.col1fila4{
+    width: 33%;
+}
+
+#phone{
+    width: 30px;
+}
+
+.col2fila4{
+    width: 33%;
+}
+
+.col3fila4{
+    width: 33%;
+}
+
+.fila5{
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5%;
+    text-align: center;
+}
+
+#jon{
+    width: 50px;
+    border-radius: 100%;
+}
+
+quote{
+    font-size: 24px;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    width: 60%;
+}
+
+
+.fila6{
+    padding-top: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5%;
+    text-align: center;
+}

@@ -129,6 +129,7 @@
 
         </section>
 
+
         <section class="fila3">
 
 
@@ -153,7 +154,88 @@
         </div>
 
 </section>
+
+
+<section class="fila4">
+
+    <div class="col1fila4">
+        
+
+        <img 
+            src="media/ring-phone.png"
+            alt="usuarios"
+            id="phone"
+            >
+
+
+        
+        <h3>
+            Mantén el contacto con amigos y familia
+        </h3>
+        
+        <p>
+            Planifica llamadas y mensajes periódicos para construir relaciones más fuertes.
+        </p>
+
+    </div>
+
+
+    <div class="col2fila4">
+
+        <img 
+            src="media/campana.png"
+            alt="campana"
+            >
+        
+        <h3>
+            Recuerda cumpleaños
+        </h3>
+        
+        <p>
+            Programa recordatorios para felicitar a familiares y amigos.  También para sus regalos.
+        </p>
+        
+    </div>
+
+    <div class="col3fila4">
+
+    <img 
+            src="media/usuarios.png"
+            alt="usuarios"
+            >
+            
+            <h3>
+                Tus contactos en un lugar
+            </h3>
+            
+            <p>
+                Agrega información de contato y detalles a recordar de cualquier persona.
+            </p>
+        
+    </div>
+
+
+</section>
+
+
+<section class="fila5">
     
+<quote>
+    Bee CRM te ayuda a ser mejor persona y construir relaciones más fuertes con las personas que te importan.
+</quote>
+
+<img src="media/jon.jpg" id="jon">
+
+<p><b>Jonatan Sánchez, fundador de Bee Personal CRM<b><p>
+
+</section>
+
+
+<footer>
+
+</footer>
+   
+
 </body>
 
 </html>
