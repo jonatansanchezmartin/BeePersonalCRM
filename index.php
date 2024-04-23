@@ -226,12 +226,89 @@
 
 <img src="media/jon.jpg" id="jon">
 
-<p><b>Jonatan Sánchez, fundador de Bee Personal CRM<b><p>
+<p>
+    <b>
+        Jonatan Sánchez, fundador de Bee Personal CRM
+    <b>
+<p>
+
+
+</section>
+
+<hr>
+
+<section class="fila6">
+
+
+    <div class="bloqueFormulario">
+
+        <h2>
+            Regístrate ahora
+        <h2>
+
+
+        <form>
+
+            <div>
+                <label for="Name">Nombre</label><br>
+                <input type="text" id="Name"/><br><br>
+            </div>
+
+            <div>
+                <label for="email">Email</label><br>
+                <input type="email"/><br><br>
+            </div>
+
+            <div>
+                <label for="password">Contraseña</label><br>
+                <input type="password"/><br><br>
+            </div>
+
+            <div>
+                <label for="confirm-password">Confirmar contraseña</label><br>
+                <input type="password" id="confirm-password"/><br>
+            </div>
+
+            <br/>
+            
+            <button type="submit" class="botonRegistrar"><a href="#"><b>Registrarse<b></a></button>
+
+        </form>
+
+    </div>
+
+    <div class="mujerTexting">
+
+    <img 
+        src="media/texting.jpg"
+        alt="mujer con móvil"
+        class="imagenFormulario" 
+        >
+
+    </div>
 
 </section>
 
 
 <footer>
+
+<ul class="menuFooter">
+
+<li>
+    <a href="#">Aviso legal</a>
+</li>
+
+<li>
+    <a href="#">Política de privacidad</a>
+</li>
+
+<li>
+    <a href="#">Política de cookies</a>
+</li>
+
+</ul>
+
+<p>&copy Bee Personal CRM all rights reserved</p>
 
 </footer>
    
