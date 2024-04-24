@@ -12,7 +12,7 @@
         >
 
     <title>
-        Inicio. Bee Personal CRM
+        Iniciar sesión. Bee Personal CRM
     </title>
 
     <link 

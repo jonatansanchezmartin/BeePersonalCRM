@@ -12,7 +12,7 @@
         >
 
     <title>
-        Inicio. Bee Personal CRM
+        Registro. Bee Personal CRM
     </title>
 
     <link 
@@ -83,54 +83,59 @@
         <section class="fila6">
 
 
-<div class="bloqueFormulario">
+            <div class="bloqueFormulario">
 
-    <h2>
-        Regístrate ahora
-    <h2>
+                <h2>
+                    Regístrate ahora
+                <h2>
 
 
-    <form>
+                <form>
 
-        <div>
-            <label for="Name">Nombre</label><br>
-            <input type="text" id="Name"/><br><br>
-        </div>
+                    <div>
+                        <label for="Name">Nombre</label><br>
+                        <input type="text" id="Name"/><br><br>
+                    </div>
 
-        <div>
-            <label for="email">Email</label><br>
-            <input type="email"/><br><br>
-        </div>
+                    <div>
+                        <label for="email">Email</label><br>
+                        <input type="email"/><br><br>
+                    </div>
 
-        <div>
-            <label for="password">Contraseña</label><br>
-            <input type="password"/><br><br>
-        </div>
+                    <div>
+                        <label for="password">Contraseña</label><br>
+                        <input type="password"/><br><br>
+                    </div>
 
-        <div>
-            <label for="confirm-password">Confirmar contraseña</label><br>
-            <input type="password" id="confirm-password"/><br>
-        </div>
+                    <div>
+                        <label for="confirm-password">Confirmar contraseña</label><br>
+                        <input type="password" id="confirm-password"/><br>
+                    </div>
 
-        <br/>
-        
-        <button type="submit" class="botonRegistrar"><a href="#"><b>Registrarse<b></a></button>
+                    <br/>
 
-    </form>
+                    <div>
 
-</div>
+                    <button type="submit" class="botonRegistrar"><a href="#"><b>Registrarse<b></a></button>
 
-<div class="bloqueFiesta">
+                    </div>
 
-<img 
-    src="media/fiesta.jpg"
-    alt="fieta de cumpleaños"
-    class="imagenFiesta" 
-    >
 
-</div>
+                </form>
 
-</section>
+            </div>
+
+            <div class="bloqueFiesta">
+
+                <img 
+                    src="media/fiesta.jpg"
+                    alt="fieta de cumpleaños"
+                    class="imagenFiesta" 
+                    >
+
+            </div>
+
+        </section>
 
 
 <footer>

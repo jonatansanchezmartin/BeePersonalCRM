@@ -12,7 +12,7 @@
         >
 
     <title>
-        Inicio. Bee Personal CRM
+        Crear Contacto. Bee Personal CRM
     </title>
 
     <link 
@@ -32,6 +32,8 @@
         type="image/x-icon" 
         sizes="any"
     >
+
+    <script src="https://kit.fontawesome.com/26deb9666d.js" crossorigin="anonymous"></script>
 
 </head>
 
@@ -62,15 +64,23 @@
             <ul class="menu">
 
                 <li>
-                    <a href="#"><b>Inicio</b></a>
+                    <a href="#"><b>Panel de control</b></a>
                 </li>
 
                 <li>
-                    <a href="#"><b>Ingresar</b></a>
+                    <a href="#"><b>Contactos</b></a>
                 </li>
 
                 <li>
-                    <button class="botonAmarillo"><a href="#" class="enlaceBoton"><b>Registrarse</b></a></button>
+                    <i class="fa-solid fa-bell" style="color: #ffffff;"></i>
+                </li>
+
+                <li>
+                    <i class="fa-solid fa-gear" style="color: #ffffff;"></i>
+                </li>
+                
+                <li>
+                <i class="fa-solid fa-door-open" style="color: #ffffff;"></i>
                 </li>
 
             </ul>
@@ -83,52 +93,55 @@
         <section class="fila6">
 
 
-<div class="bloqueFormulario">
+            <div class="formularioContacto">
 
-    <h2>
-        Regístrate ahora
-    <h2>
+                <h2>
+                    Agregar contacto nuevo
+                <h2>
 
 
-    <form>
+                <form>
 
-        <div>
-            <label for="Name">Nombre</label><br>
-            <input type="text" id="Name"/><br><br>
-        </div>
+                    <div>
+                        <label for="Name">Nombre</label><br>
+                        <input type="text" id="Name"/><br><br>
+                    </div>
 
-        <div>
-            <label for="email">Email</label><br>
-            <input type="email"/><br><br>
-        </div>
+                    <div>
+                        <label for="secondName">Segundo nombre</label><br>
+                        <input type="text" id="secondName"/><br><br>
+                    </div>
 
-        <div>
-            <label for="password">Contraseña</label><br>
-            <input type="password"/><br><br>
-        </div>
+                    <div>
+                        <label for="lastName">Apellidos</label><br>
+                        <input type="text" id="lastName"/><br><br>
+                    </div>
 
-        <div>
-            <label for="confirm-password">Confirmar contraseña</label><br>
-            <input type="password" id="confirm-password"/><br>
-        </div>
+                    <div>
+                        <label for="nickName">Apodo</label><br>
+                        <input type="text" id="nickName"/><br><br>
+                    </div>
 
-        <br/>
-        
-        <button type="submit" class="botonRegistrar"><a href="#"><b>Registrarse<b></a></button>
+                    <div>
+                        <label for="email">Email</label><br>
+                        <input type="email"/><br><br>
+                    </div>
 
-    </form>
+                    <div class="botonesContacto">
 
-</div>
+                            <button type="submit" class="botonContacto" id="crear">
+                                <a href="#">
+                                    <b>Agregar<b>
 
-<div class="bloqueFiesta">
+                                </a>
+                            </button>
 
-<img 
-    src="media/fiesta.jpg"
-    alt="fieta de cumpleaños"
-    class="imagenFiesta" 
-    >
 
-</div>
+                    </div>
+
+                </form>
+
+            </div>
 
 </section>
 

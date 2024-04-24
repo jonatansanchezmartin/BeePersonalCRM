@@ -19,6 +19,13 @@ button{
     border: none;
     outline: none;
     cursor: pointer;
+    background-color: black;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+button a{
+    color: white;
 }
 
 p{
@@ -248,6 +255,10 @@ quote{
     column-gap: 10%;
 }
 
+.bloqueFormulario{
+    width: 40%;
+}
+
 .mujerTexting{
     width: 40%;
     padding: 5%;
@@ -255,12 +266,6 @@ quote{
 
 .imagenFormulario{
     width: 150%;
-}
-
-.bloqueFormulario{
-    width: 40%;
-    border: 1px;
-    border-radius: 10%;
 }
 
 form input{
@@ -329,11 +334,22 @@ footer p{
 
 
 .bloqueFiesta{
-    width: 30%;
+    width: 40%;
     padding-left: 5%;
     padding-right: 5%;
 }
 
 .imagenFiesta{
-    width: 200%;
+    width: 150%;
+}
+
+.formularioContacto{
+ width: 50%;
+}
+
+.botonesContacto{
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    column-gap: 5%;
 }
