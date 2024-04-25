@@ -23,7 +23,7 @@ Developed for busy professionals that want to:
 
 ## 🚀 Features
 
-- 🧑‍🦱 Add and manage their contacts in one place.
+- 🧑‍🦱 Add and manage contacts in one place.
 
 - 🔔 Create reminders to keep in touch and remember birthdays.
 
