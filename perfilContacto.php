@@ -94,10 +94,82 @@
 <section class="panelContacto">
 
 
-   
+    <div class="perfil">
+
+        <div class="fotoPerfil">
+            <img src="media/mercedes.jpg" alt="mujer con niña" class="mercedes">
+        </div>
+
+        <div class="datosPerfil">
+            
+            <h2>
+                Mercedes Martín Puig (Merche)
+            </h2>
+
+            <p>
+                Amiga de Mallorca
+            </p>
+
+            <p>
+                mercedes.martin@gmail.com
+            </p>
+
+        </div>
+
+        <div class="notasPerfil">
+
+            <div class="tituloNotas">
+                <p><b>Notas</b></p>
+            </div>
+
+            <div class="textoNotas">
+                <p>Su hija se llama Julieta.</p>
+                <p>Max es su chihuahua.</p>
+                </br></br></br></br></br>
+            </div>
+
+        </div>
+
+        <div class="recordatoriosPerfil">
+
+            <div class="tituloRecordatorios">
+                <p>
+                    <b>
+                        Recordatorios
+                    </b>
+                </p>
+            </div>
+
+            <div class="recordatorio1">
+                <p>
+                    5/03/2024
+                </p>
+
+                <p>
+                    Cada año
+                </p>
+
+                <p>
+                    Cumpleaños Mercedes
+                </p>
+
+                <i class="fa-solid fa-pencil" style="color: #000000;"></i>
+                <i class="fa-solid fa-trash" style="color: #000000;"></i>
+
+            </div>
+
+            <div class="textoNotas">
+                </br></br></br></br></br></br>
+            </div>
 
 
-    </section>
+
+        </div>
+
+    </div>
+
+
+</section>
 
 
 <footer>
