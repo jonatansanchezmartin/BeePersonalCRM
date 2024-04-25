@@ -28,7 +28,7 @@
 
     <link 
         rel="icon" 
-        href="./media/bringTheBacon.png" 
+        href="./media/abejaLogo.png" 
         type="image/x-icon" 
         sizes="any"
     >
@@ -64,11 +64,11 @@
             <ul class="menu">
 
                 <li>
-                    <a href="#"><b>Panel de control</b></a>
+                    <a href="http://localhost/Bee-Personal-CRM/panelDeControl.php"><b>Panel de control</b></a>
                 </li>
 
                 <li>
-                    <a href="#"><b>Contactos</b></a>
+                    <a href="http://localhost/Bee-Personal-CRM/listaContactos.php"><b>Contactos</b></a>
                 </li>
 
                 <li>

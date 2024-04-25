@@ -28,7 +28,7 @@
 
     <link 
         rel="icon" 
-        href="./media/bringTheBacon.png" 
+        href="./media/abejaLogo.png" 
         type="image/x-icon" 
         sizes="any"
     >
@@ -64,11 +64,11 @@
             <ul class="menu">
 
                 <li>
-                    <a href="#"><b>Panel de control</b></a>
+                    <a href="http://localhost/Bee-Personal-CRM/panelDeControl.php"><b>Panel de control</b></a>
                 </li>
 
                 <li>
-                    <a href="#"><b>Contactos</b></a>
+                    <a href="http://localhost/Bee-Personal-CRM/listaContactos.php"><b>Contactos</b></a>
                 </li>
 
                 <li>
@@ -205,12 +205,19 @@
             </div>
 
             <div class="paginacion">
-                Paginación
+                <div class="textoBlanco">
+                <p>1/1 páginas</p>
+                </div>
+
+                <div class="textoBlanco">
+                <a href="#">Siguiente</a>
+                <a href="#">Anterior</a>
+                </div>
             </div>
 
 </div>
 
-<button class="botonCrearContacto"><a href="#"><b>Crear contacto</b></a></button>
+<button class="botonCrearContacto"><a href="http://localhost/Bee-Personal-CRM/crearContacto.php"><b>Crear contacto</b></a></button>
 
 
 

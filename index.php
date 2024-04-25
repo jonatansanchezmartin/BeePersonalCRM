@@ -28,7 +28,7 @@
 
     <link 
         rel="icon" 
-        href="./media/bringTheBacon.png" 
+        href="./media/abejaLogo.png" 
         type="image/x-icon" 
         sizes="any"
     >
@@ -62,15 +62,15 @@
             <ul class="menu">
 
                 <li>
-                    <a href="#"><b>Inicio</b></a>
+                    <a href="http://localhost/Bee-Personal-CRM/index.php"><b>Inicio</b></a>
                 </li>
 
                 <li>
-                    <a href="#"><b>Ingresar</b></a>
+                    <a href="http://localhost/Bee-Personal-CRM/ingresar.php"><b>Ingresar</b></a>
                 </li>
 
                 <li>
-                    <button class="botonAmarillo"><a href="#" class="enlaceBoton"><b>Registrarse</b></a></button>
+                    <button class="botonAmarillo"><a href="http://localhost/Bee-Personal-CRM/registro.php" class="enlaceBoton"><b>Registrarse</b></a></button>
                 </li>
 
             </ul>
@@ -93,7 +93,7 @@
                 </p>
 
                 <button class="botonNegro">
-                    <a href="#"><b>Empezar</b></a>
+                    <a href="http://localhost/Bee-Personal-CRM/registro.php"><b>Empezar</b></a>
                 </button>
 
             </div>

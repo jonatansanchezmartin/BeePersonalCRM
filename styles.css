@@ -621,3 +621,68 @@ footer p{
   #search{
     width: 55%;
   }
+
+
+  .paginacion{
+    display: flex;
+    flex-direction: row;
+  }
+
+  .textoBlanco a{
+    color: white;
+  }
+
+  .textoBlanco p{
+    color: white;
+  }
+
+  .textoBlanco{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5%;
+  }
+
+  .panelDeControl{
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    justify-content: center;
+    column-gap: 10%;
+  }
+
+
+  .bloqueProximosEventos{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10%;
+    width: 100%;
+  }
+
+  .panelDeControl2{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .bloqueTusContactos{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    column-gap: 20px;
+  }
+
+  .botonesContacto a{
+    padding: 3%;
+  }
